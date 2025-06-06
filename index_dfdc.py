@@ -1,15 +1,4 @@
-"""
-Index the official Kaggle training dataset and prepares a train and validation set based on folders
-
-Video Face Manipulation Detection Through Ensemble of CNNs
-
-Image and Sound Processing Lab - Politecnico di Milano
-
-Nicolò Bonettini
-Edoardo Daniele Cannas
-Sara Mandelli
-Luca Bondi
-Paolo Bestagini
+tagini
 """
 import sys
 import argparse
